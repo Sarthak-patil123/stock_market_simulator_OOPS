@@ -1,0 +1,172 @@
+{
+    "balance": 7380.422418222427,
+    "initial_balance": 10000.0,
+    "name": "Rajveer",
+    "password": "Rajveer@123",
+    "portfolio": [
+        {
+            "company_name": "TataSteels",
+            "quantity": 1
+        },
+        {
+            "company_name": "RajMotors",
+            "quantity": 2
+        },
+        {
+            "company_name": "IIITN",
+            "quantity": 1
+        }
+    ],
+    "transactions": [
+        {
+            "price": 10.0,
+            "quantity": 5,
+            "stock_id": "RajMotors",
+            "type": "buy"
+        },
+        {
+            "price": 2000.0,
+            "quantity": 5,
+            "stock_id": "RajMotors",
+            "type": "buy"
+        },
+        {
+            "price": 30000.0,
+            "quantity": 5,
+            "stock_id": "TataSteels",
+            "type": "buy"
+        },
+        {
+            "price": 3000.0,
+            "quantity": 2,
+            "stock_id": "TataSteels",
+            "type": "sell"
+        },
+        {
+            "price": 50000.0,
+            "quantity": 3,
+            "stock_id": "TataSteels",
+            "type": "buy"
+        },
+        {
+            "price": 6000.0,
+            "quantity": 1,
+            "stock_id": "TataSteels",
+            "type": "buy"
+        },
+        {
+            "price": 7000.0,
+            "quantity": 3,
+            "stock_id": "TataSteels",
+            "type": "sell"
+        },
+        {
+            "price": 80.0,
+            "quantity": 1,
+            "stock_id": "TataSteels",
+            "type": "buy"
+        },
+        {
+            "type": "buy",
+            "stock_id": "TataSteels",
+            "quantity": 2,
+            "price": 812.6866455078125
+        },
+        {
+            "type": "sell",
+            "stock_id": "TataSteels",
+            "quantity": 3,
+            "price": 812.6866455078125
+        },
+        {
+            "type": "buy",
+            "stock_id": "RajMotors",
+            "quantity": 2,
+            "price": 151.38162231445312
+        },
+        {
+            "type": "buy",
+            "stock_id": "RajMotors",
+            "quantity": 1,
+            "price": 151.38162231445312
+        },
+        {
+            "type": "buy",
+            "stock_id": "RajMotors",
+            "quantity": 2,
+            "price": 151.38162231445312
+        },
+        {
+            "type": "buy",
+            "stock_id": "RajMotors",
+            "quantity": 3,
+            "price": 151.38162231445312
+        },
+        {
+            "type": "buy",
+            "stock_id": "RajMotors",
+            "quantity": 1,
+            "price": 151.38162231445312
+        },
+        {
+            "type": "buy",
+            "stock_id": "TataSteels",
+            "quantity": 1,
+            "price": 812.6866455078125
+        },
+        {
+            "type": "buy",
+            "stock_id": "RajMotors",
+            "quantity": 2,
+            "price": 151.38162231445312
+        },
+        {
+            "type": "sell",
+            "stock_id": "RajMotors",
+            "quantity": 1,
+            "price": 151.38162231445312
+        },
+        {
+            "type": "buy",
+            "stock_id": "RajMotors",
+            "quantity": 1,
+            "price": 151.38162231445312
+        },
+        {
+            "type": "sell",
+            "stock_id": "TataSteels",
+            "quantity": 2,
+            "price": 812.6866455078125
+        },
+        {
+            "type": "sell",
+            "stock_id": "RajMotors",
+            "quantity": 21,
+            "price": 154.41
+        },
+        {
+            "type": "buy",
+            "stock_id": "RajMotors",
+            "quantity": 2,
+            "price": 89.56
+        },
+        {
+            "type": "sell",
+            "stock_id": "TataSteels",
+            "quantity": 2,
+            "price": 780.18
+        },
+        {
+            "type": "buy",
+            "stock_id": "IIITN",
+            "quantity": 10,
+            "price": 100.0
+        },
+        {
+            "type": "sell",
+            "stock_id": "IIITN",
+            "quantity": 9,
+            "price": 120.0
+        }
+    ]
+}

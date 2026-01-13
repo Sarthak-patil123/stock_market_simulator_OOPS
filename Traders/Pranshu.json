@@ -1,0 +1,20 @@
+{
+    "name": "Pranshu",
+    "password": "Pranshu@123",
+    "initial_balance": 10000.0,
+    "balance": 1144.0,
+    "portfolio": [
+        {
+            "company_name": "IIITN",
+            "quantity": 90
+        }
+    ],
+    "transactions": [
+        {
+            "type": "buy",
+            "stock_id": "IIITN",
+            "quantity": 90,
+            "price": 98.4
+        }
+    ]
+}

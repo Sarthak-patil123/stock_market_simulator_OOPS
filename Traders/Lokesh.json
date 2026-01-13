@@ -1,0 +1,36 @@
+{
+    "balance": 31712.980859375,
+    "initial_balance": 25000.0,
+    "name": "Lokesh",
+    "password": "Lokesh@123",
+    "portfolio": [
+        {
+            "company_name": "RajMotors",
+            "quantity": 2
+        },
+        {
+            "company_name": "TataSteels",
+            "quantity": 5
+        }
+    ],
+    "transactions": [
+        {
+            "price": 151.38162231445312,
+            "quantity": 2,
+            "stock_id": "RajMotors",
+            "type": "buy"
+        },
+        {
+            "type": "buy",
+            "stock_id": "TataSteels",
+            "quantity": 10,
+            "price": 748.97
+        },
+        {
+            "type": "sell",
+            "stock_id": "TataSteels",
+            "quantity": 5,
+            "price": 898.76
+        }
+    ]
+}

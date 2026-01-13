@@ -1,0 +1,32 @@
+{
+    "initial_balance":10000,
+    "balance": 8337.953125,
+    "name": "janvar",
+    "password": "Janvar@123",
+    "portfolio": [
+        {
+            "company_name": "RajMotors",
+            "quantity": 27
+        }
+    ],
+    "transactions": [
+        {
+            "price": 0.0,
+            "quantity": 2,
+            "stock_id": "RajMotors",
+            "type": "buy"
+        },
+        {
+            "price": 99.6981201171875,
+            "quantity": 2,
+            "stock_id": "RajMotors",
+            "type": "buy"
+        },
+        {
+            "price": 145.5592498779297,
+            "quantity": 23,
+            "stock_id": "RajMotors",
+            "type": "buy"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+[
+    {
+        "change": "constant",
+        "rank": 1,
+        "username": "Tanu",
+        "worth": 100000.0
+    },
+    {
+        "change": "constant",
+        "rank": 2,
+        "username": "kalua",
+        "worth": 40000.0
+    },
+    {
+        "change": "43.774639% profit",
+        "rank": 3,
+        "username": "Lokesh",
+        "worth": 35943.66015625
+    },
+    {
+        "change": "159.407990% profit",
+        "rank": 4,
+        "username": "Pranshu",
+        "worth": 25940.798828125
+    },
+    {
+        "change": "27.560469% profit",
+        "rank": 5,
+        "username": "Sarthak",
+        "worth": 12756.046875
+    },
+    {
+        "change": "22.200001% profit",
+        "rank": 6,
+        "username": "Ravi",
+        "worth": 12220.0
+    },
+    {
+        "change": "8.527334% profit",
+        "rank": 7,
+        "username": "janvar",
+        "worth": 10852.7333984375
+    },
+    {
+        "change": "constant",
+        "rank": 8,
+        "username": "Akshat",
+        "worth": 9000.0
+    },
+    {
+        "change": "-13.488984% loss",
+        "rank": 9,
+        "username": "Rajveer",
+        "worth": 8651.1015625
+    },
+    {
+        "change": "constant",
+        "rank": 10,
+        "username": "Parth",
+        "worth": 8000.0
+    }
+]

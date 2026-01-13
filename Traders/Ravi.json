@@ -1,0 +1,26 @@
+{
+    "name": "Ravi",
+    "password": "Ravi@123",
+    "initial_balance": 10000.0,
+    "balance": 7900.0,
+    "portfolio": [
+        {
+            "company_name": "Amazon",
+            "quantity": 30
+        }
+    ],
+    "transactions": [
+        {
+            "type": "buy",
+            "stock_id": "Amazon",
+            "quantity": 40,
+            "price": 100.0
+        },
+        {
+            "type": "sell",
+            "stock_id": "Amazon",
+            "quantity": 10,
+            "price": 180.0
+        }
+    ]
+}
